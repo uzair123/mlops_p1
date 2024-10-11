@@ -1,3 +1,8 @@
+"""
+Author: Muhammad Uzair
+Date Created: 2024-10-10
+this file contains functions for churn library. Data EDA , Feature engineering and Model Training
+"""
 import joblib
 import pandas as pd
 import numpy as np

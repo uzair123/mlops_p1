@@ -33,6 +33,17 @@ Ensure you have Python installed along with the required packages. You can insta
 
 ```bash
 pip install -r requirements.txt
+```
+### Step 2: Run the script
+once all the dependecies are installed run 
+python churn_library.py
+
+### Step 3: Test the functionality
+all the functions in churn_library.py have a respective test in churn_script_logging_and_tests.py script. Run the test using following command
+ipython churn_script_logging_and_tests.py
+The test results for each function are logged in logs/churn_library.log
+
+
 
 
 

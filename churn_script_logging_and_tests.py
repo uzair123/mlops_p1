@@ -1,4 +1,6 @@
 """
+Author: Muhammad Uzair
+Date Created: 2024-10-10
 This script contains tests for the churn_library functions including import_data,
 perform_eda, encoder_helper, perform_feature_engineering, and train_models.
 It also logs the results of these tests.
